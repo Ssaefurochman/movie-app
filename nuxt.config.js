@@ -6,8 +6,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - assessment-movie-app',
-    title: 'assessment-movie-app',
+    title: 'movie-app',
     htmlAttrs: {
       lang: 'en'
     },
