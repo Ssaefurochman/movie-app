@@ -82,6 +82,7 @@
 <script>
 export default {
   name: 'DefaultLayout',
+  middleware: 'isAuthenticated',
   data () {
     return {
       clipped: false,
